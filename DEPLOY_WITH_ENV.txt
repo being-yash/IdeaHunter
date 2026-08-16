@@ -1,0 +1,1 @@
+Env vars are in .env - for Render, copy them to Dashboard > Environment

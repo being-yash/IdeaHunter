@@ -1,0 +1,5 @@
+google-genai
+firecrawl-py
+pyTelegramBotAPI
+pydantic
+python-dotenv
