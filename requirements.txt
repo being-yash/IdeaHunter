@@ -1,5 +1,5 @@
-google-genai==0.8.4
-firecrawl-py==2.3.2
-pyTelegramBotAPI==4.14.1
-pydantic==2.11.3
-python-dotenv==1.0.1
+google-genai>=1.20.0
+firecrawl-py>=2.0.0
+pyTelegramBotAPI
+pydantic
+python-dotenv
